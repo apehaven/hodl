@@ -1,2 +1,2 @@
-|Holder Address|Tokens|
-|test|10,000|
+| Holder Address | Tokens |
+| test | 10,000 |
